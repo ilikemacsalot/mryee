@@ -1,4 +1,4 @@
 # mryee
 Mryee site
 
-thanks githup pages ;)
+thanks github pages ;) 
